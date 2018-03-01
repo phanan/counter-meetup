@@ -14,4 +14,8 @@ describe('Counter.vue', () => {
     wrapper.find('button').trigger('click')
     expect(wrapper.find('.result').text()).toBe('1')
   })
+
+  it('matches snapshot', () => {
+    expect(renderToString(Counter)).toMatchSnapshot()
+  })
 })

@@ -1,7 +1,7 @@
 <template>
   <div>
     <span class="result">{{ count }}</span>
-    <button @click.prevent="inc">Count!</button>
+    <button @click="inc">Count</button>
   </div>
 </template>
 
