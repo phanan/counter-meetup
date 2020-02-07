@@ -10,27 +10,27 @@
     "test": "jest --verbose"
   },
   "dependencies": {
-    "vue": "^2.4.4"
+    "vue": "2.5.13"
   },
   "devDependencies": {
-    "@vue/test-utils": "^1.0.0-beta.11",
-    "babel-core": "^6.26.0",
-    "babel-jest": "^21.2.0",
-    "babel-loader": "^7.1.2",
-    "babel-preset-env": "^1.6.0",
-    "cross-env": "^5.0.5",
-    "css-loader": "^0.28.7",
-    "file-loader": "^1.1.4",
-    "jest": "^22.4.2",
-    "jest-serializer-vue": "^0.2.0",
-    "sinon": "^4.4.2",
-    "vue-jest": "^1.0.0",
-    "vue-loader": "^13.0.5",
-    "vue-server-renderer": "^2.4.4",
-    "vue-template-compiler": "^2.4.4",
-    "vue-test-helpers": "^1.0.10",
-    "webpack": "^3.6.0",
-    "webpack-dev-server": "^2.9.1"
+    "@vue/test-utils": "1.0.0-beta.12",
+    "babel-core": "6.26.0",
+    "babel-jest": "21.2.0",
+    "babel-loader": "7.1.2",
+    "babel-preset-env": "1.6.1",
+    "cross-env": "5.1.3",
+    "css-loader": "0.28.7",
+    "file-loader": "1.1.6",
+    "jest": "22.4.2",
+    "jest-serializer-vue": "0.2.0",
+    "sinon": "4.4.2",
+    "vue-jest": "1.4.0",
+    "vue-loader": "13.6.1",
+    "vue-server-renderer": "2.5.13",
+    "vue-template-compiler": "2.5.13",
+    "vue-test-helpers": "1.0.10",
+    "webpack": "3.10.0",
+    "webpack-dev-server": "2.9.7"
   },
   "jest": {
     "moduleFileExtensions": [
